@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SHI648/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHI648/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 ## Hash Table
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
