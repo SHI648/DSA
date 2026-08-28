@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SHI648/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHI648/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SHI648/DSA/tree/master/0125-valid-palindrome) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SHI648/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SHI648/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
