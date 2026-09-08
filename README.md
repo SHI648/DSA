@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SHI648/DSA/tree/master/0007-reverse-integer) |
 | [1922-count-good-numbers](https://github.com/SHI648/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
