@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHI648/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SHI648/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHI648/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SHI648/DSA/tree/master/0031-next-permutation) |
@@ -57,6 +58,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SHI648/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHI648/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SHI648/DSA/tree/master/0125-valid-palindrome) |
 ## Binary Search
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SHI648/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SHI648/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
