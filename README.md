@@ -19,6 +19,7 @@
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHI648/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SHI648/DSA/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/SHI648/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHI648/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHI648/DSA/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
