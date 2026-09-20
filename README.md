@@ -21,6 +21,7 @@
 | [0031-next-permutation](https://github.com/SHI648/DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/SHI648/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/SHI648/DSA/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SHI648/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/SHI648/DSA/tree/master/0120-triangle) |
 ## Linked List
 |  |
 | ------- |
