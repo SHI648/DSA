@@ -35,6 +35,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SHI648/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -79,6 +80,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SHI648/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SHI648/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SHI648/DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Trie
 |  |
 | ------- |
@@ -121,4 +124,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SHI648/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SHI648/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
