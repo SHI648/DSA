@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SHI648/DSA/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/SHI648/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@
 | [0120-triangle](https://github.com/SHI648/DSA/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHI648/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -32,6 +34,7 @@
 | [0001-two-sum](https://github.com/SHI648/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -94,6 +99,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
