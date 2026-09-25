@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SHI648/DSA/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/SHI648/DSA/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/SHI648/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -98,6 +99,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SHI648/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 ## Simulation
