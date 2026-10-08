@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHI648/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SHI648/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SHI648/DSA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHI648/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SHI648/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SHI648/DSA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -71,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/SHI648/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHI648/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SHI648/DSA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/SHI648/DSA/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SHI648/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SHI648/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
