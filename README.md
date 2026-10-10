@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHI648/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SHI648/DSA/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/SHI648/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/SHI648/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SHI648/DSA/tree/master/0120-triangle) |
@@ -149,4 +150,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SHI648/DSA/tree/master/0179-largest-number) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SHI648/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SHI648/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
