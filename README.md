@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/SHI648/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHI648/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SHI648/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SHI648/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/SHI648/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/SHI648/DSA/tree/master/0085-maximal-rectangle) |
@@ -79,6 +80,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SHI648/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SHI648/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SHI648/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
