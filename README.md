@@ -75,6 +75,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHI648/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHI648/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SHI648/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/SHI648/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/SHI648/DSA/tree/master/0179-largest-number) |
 ## Binary Search
@@ -123,9 +124,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHI648/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SHI648/DSA/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SHI648/DSA/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SHI648/DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/SHI648/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SHI648/DSA/tree/master/0120-triangle) |
@@ -159,6 +162,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SHI648/DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SHI648/DSA/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
