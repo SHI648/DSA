@@ -23,6 +23,7 @@
 | [0031-next-permutation](https://github.com/SHI648/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SHI648/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/SHI648/DSA/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/SHI648/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/SHI648/DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/SHI648/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -114,6 +115,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SHI648/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SHI648/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -145,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SHI648/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SHI648/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/SHI648/DSA/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
